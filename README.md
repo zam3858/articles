@@ -8,3 +8,8 @@ ok lets move good readings from bookmarks to here
   [Cornell Notes](https://models.substack.com/p/-cornell-notes-take-effective-notes)
 
   [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
+
+
+## Stuff You'd Need To Know
+
+  [Motorcycle Repair Course](http://www.dansmc.com/MC_repaircourse.htm)

@@ -13,3 +13,7 @@ ok lets move good readings from bookmarks to here
 ## Stuff You'd Need To Know
 
   [Motorcycle Repair Course](http://www.dansmc.com/MC_repaircourse.htm)
+
+## Graphics
+
+  [Monochorm Dithering](https://surma.dev/things/ditherpunk/)

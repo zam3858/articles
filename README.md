@@ -10,6 +10,8 @@ ok lets move good readings from bookmarks to here
   [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 
   [Moral Competency](https://evanjconrad.com/posts/moral-competence)
+  
+  [How to be Productive Without Forcing Yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
 
 ## Stuff You'd Need To Know
 

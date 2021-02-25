@@ -20,3 +20,7 @@ ok lets move good readings from bookmarks to here
 ## Graphics
 
   [Monochorm Dithering](https://surma.dev/things/ditherpunk/)
+
+## Server
+
+  [Common nginx misconfiguration](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)

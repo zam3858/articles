@@ -13,6 +13,10 @@ ok lets move good readings from bookmarks to here
   
   [How to be Productive Without Forcing Yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
 
+## Wow?
+
+  [content aware image resizing](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
+
 ## Stuff You'd Need To Know
 
   [Motorcycle Repair Course](http://www.dansmc.com/MC_repaircourse.htm)

@@ -28,3 +28,7 @@ ok lets move good readings from bookmarks to here
 ## Server
 
   [Common nginx misconfiguration](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)
+
+## DB
+ 
+  [SQL for data analysis](https://hakibenita.com/sql-for-data-analysis)

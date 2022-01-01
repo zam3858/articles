@@ -32,3 +32,7 @@ ok lets move good readings from bookmarks to here
 ## DB
  
   [SQL for data analysis](https://hakibenita.com/sql-for-data-analysis)
+
+## Sec
+  
+  [Modern Day Guide to OAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
